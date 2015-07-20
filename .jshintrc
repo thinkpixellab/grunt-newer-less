@@ -1,0 +1,21 @@
+{
+    "curly": false,
+    "eqeqeq": true,
+    "immed": true,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "sub": true,
+    "undef": true,
+    "boss": true,
+    "eqnull": true,
+    "browser": true,
+    "smarttabs": true,
+    "onecase": true,
+    "globals": {
+        "console": true,
+        "module": true,
+        "require": true,
+        "process": true
+    }
+}
