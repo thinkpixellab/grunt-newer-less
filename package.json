@@ -1,8 +1,8 @@
 {
   "name": "grunt-newer-less",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Helpers for using LESS with grunt-newer",
-  "main" : "main.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
